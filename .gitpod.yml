@@ -1,1 +1,1 @@
-image: docker.io/mach4/gitpod-wordpress:delta@sha256:4449db51ff7b2e0421453f215dc6c296ec958b6cff5443fa8c64eef4fa84d63c
+image: docker.io/mach4/gitpod-wordpress:delta@sha256:f246dedebec62a9bffd67786740d275098a3b25295f263f85e65bebbf48e2bc3
